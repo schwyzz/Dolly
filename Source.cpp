@@ -9,7 +9,7 @@
 using namespace std;
 int main() {
 	setlocale(LC_ALL, "");
-	printf("  Hello Dolly!\n Максим привет как дела и как там вообще чо.");
+	printf("  Hello Dolly!\n Максим привет как дела и как там вообще чо.\n \n Test fixing.");
 	_getch();
 	std::cin.get();
 	cin.get();
