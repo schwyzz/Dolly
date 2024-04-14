@@ -8,5 +8,4 @@ int main() {
 	getch();
 	std::cout << "\n Максим, для выхода нажми кнопку.\n\n";
 	getch();
-	return 0;
 }
